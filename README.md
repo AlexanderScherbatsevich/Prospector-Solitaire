@@ -1,2 +1,3 @@
 # Prospector-Solitaire
- game for android
+game for android
+based on a prototype by Jeremy Gibson Bond
